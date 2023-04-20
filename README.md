@@ -9,13 +9,24 @@
 
 <h3 align="left">Known Languages :</h3>
 
+Programming languages:
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=purple)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4bc425&logoColor=white&labelColor=purple)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=4bc425&logoColor=white&labelColor=purple)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white&labelColor=purple)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=AssemblyScript&logoColor=white&labelColor=purple) 
-![VHDL](https://img.shields.io/badge/VHDL-333333?style=flat&logo=ieee&logoColor=white&labelColor=purple) 
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=white&labelColor=purple) 
+
+Infrastructure as Code:
+
+![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform&logoColor=white&labelColor=purple)
+
+Hardware descriptive language:
+
+![VHDL](https://img.shields.io/badge/VHDL-333333?style=flat&logo=ieee&logoColor=white&labelColor=purple) 
+
+Web Development:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=white&labelColor=purple) 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white&labelColor=purple) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white&labelColor=purple)
