@@ -14,8 +14,10 @@ Programming languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=purple)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4bc425&logoColor=white&labelColor=purple)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=4bc425&logoColor=white&labelColor=purple)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white&labelColor=purple) 
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=AssemblyScript&logoColor=white&labelColor=purple) 
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=white&labelColor=purple) 
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=white&labelColor=purple)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=&logoColor=white&labelColor=purple) 
 
 Infrastructure as Code:
 
@@ -24,6 +26,7 @@ Infrastructure as Code:
 Hardware descriptive language:
 
 ![VHDL](https://img.shields.io/badge/VHDL-333333?style=flat&logo=ieee&logoColor=white&labelColor=purple) 
+![SysVerlog](https://img.shields.io/badge/SystemVerilog-333333?style=flat&logo=ieee&logoColor=white&labelColor=purple) 
 
 Web Development:
 
